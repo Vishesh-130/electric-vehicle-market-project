@@ -8,7 +8,7 @@
 ---
 
 ## 📸 Dashboard Preview
-👉 
+👉 https://github.com/Vishesh-130/electric-vehicle-market-project/blob/main/DASHBOARDPREVIEW.png
 
 ## 📸 Demo Video
 👉  
